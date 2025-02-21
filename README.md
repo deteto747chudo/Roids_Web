@@ -1,2 +1,6 @@
-# Quiz_App_Asp
-asp.net project - bundata, hinkov, denislav
+# ✅ ASP.NET Quiz Application School Project ✅
+
+## Участници
+**Хинков**
+**Бундов**
+**Денислав**
