@@ -43,4 +43,4 @@ Roids Web е уеб приложение, разработено с помощт
 ### Стъпки:
 1. **Клонирайте репозитория**:
    ```bash
-   git clone https://github.com/yourusername/RoidsWeb.git
+   git clone https://github.com/deteto747chudo/Roids_Web.git
